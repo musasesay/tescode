@@ -1,0 +1,1051 @@
+Script started on Tue 25 Apr 2017 03:57:36 BST
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m pwddate
+Tue 25 Apr 03:57:50 BST 2017
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m date[1Ppwddate./memmgr 2 0 | ttee output-alloc1.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m date[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Ppwd[K[K[Kuptime
+ 03:58:06 up 45 min,  1 user,  load average: 0.35, 0.27, 0.28
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m uptime[2Pdate[1Ppwddate./memmgr 2 0 | ttee output-alloc1.txt2.txt[7P.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m diff --strip-trailing-cr output.txt test_alloc1.txtoutput-alloc2.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m ./memmgr 2 0 | t[24Pee output.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m gcc -O -g -Wall -Wextra -ansi -pedantic sample-driver-stress2.c memmgr.c -o memmgr1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m cat /proc/meminfo[K[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [C[C[C[C[C[C[C[C[C[Ccpuinf[C[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [7Puname -a
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pwhoami
+musa
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m whoamiuptime[2Pdate[1Ppwddate./memmgr 2 0 | ttee output-alloc1.txt2.txt[7P.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m diff --strip-trailing-cr output.txt test_alloc1.txtoutput-alloc2.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m ./memmgr 2 0 | t[24Pee output.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m gcc -O -g -Wall -Wextra -ansi -pedantic sample-driver-stress2.c memmgr.c -o memmgr1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m cat /proc/meminfo[K[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [C[C[C[C[C[C[C[C[C[Ccpuinf[C[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [7Puname -a
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Linux musa-VirtualBox 4.4.0-53-generic #74-Ubuntu SMP Fri Dec 2 15:59:10 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m uname -a[2Pwhoamiuptime[2Pdate[1Ppwddate./memmgr 2 0 | ttee output-alloc1.txt2.txt[7P.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m diff --strip-trailing-cr output.txt test_alloc1.txtoutput-alloc2.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m ./memmgr 2 0 | t[24Pee output.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m gcc -O -g -Wall -Wextra -ansi -pedantic sample-driver-stress2.c memmgr.c -o memmgr1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m cat /proc/meminfo[K[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [C[C[C[C[C[C[C[C[C[Ccpuinf[C
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 69
+model name	: Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz
+stepping	: 1
+cpu MHz		: 2593.994
+cache size	: 4096 KB
+physical id	: 0
+siblings	: 1
+core id		: 0
+cpu cores	: 1
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm
+bugs		:
+bogomips	: 5187.98
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m cat /proc/cpuinffo[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [7Puname -a
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pwhoamiuptime[2Pdate[1Ppwddate./memmgr 2 0 | ttee output-alloc1.txt2.txt[7P.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m diff --strip-trailing-cr output.txt test_alloc1.txtoutput-alloc2.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m ./memmgr 2 0 | t[24Pee output.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m gcc -O -g -Wall -Wextra -ansi -pedantic sample-driver-stress2.c memmgr.c -o memmgr1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m cat /proc/meminfo[K
+MemTotal:        1016216 kB
+MemFree:           69364 kB
+MemAvailable:     306388 kB
+Buffers:           37844 kB
+Cached:           330276 kB
+SwapCached:          280 kB
+Active:           588352 kB
+Inactive:         267840 kB
+Active(anon):     388744 kB
+Inactive(anon):   117120 kB
+Active(file):     199608 kB
+Inactive(file):   150720 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       1046524 kB
+SwapFree:        1044880 kB
+Dirty:                44 kB
+Writeback:             0 kB
+AnonPages:        487788 kB
+Mapped:           175368 kB
+Shmem:             17796 kB
+Slab:              46640 kB
+SReclaimable:      28648 kB
+SUnreclaim:        17992 kB
+KernelStack:        5792 kB
+PageTables:        19112 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     1554632 kB
+Committed_AS:    2095928 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:    237568 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:       69568 kB
+DirectMap2M:      978944 kB
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m cat /proc/meminffo[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [C[C[C[C[C[C[C[C[C[Ccpuinf[C[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [7Puname -a
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pwhoamiuptime[2Pdate[1Ppwddate./memmgr 2 0 | ttee output-alloc1.txt2.txt[7P.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m diff --strip-trailing-cr output.txt test_alloc1.txtoutput-alloc2.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m ./memmgr 2 0 | t[24Pee output.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m gcc -O -g -Wall -Wextra -ansi -pedantic sample-driver-stress2.c memmgr.c -o memmgr1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[01m[Ksample-driver.c:[m[K In function ‘[01m[KDUMP_GV[m[K’:
+[01m[Ksample-driver.c:152:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kheap[m[K’ [-Wunused-parameter]
+ void DUMP_GV(block_info *heap, const char *filename)
+[01;32m[K                          ^[m[K
+[01m[Ksample-driver.c:152:44:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfilename[m[K’ [-Wunused-parameter]
+ void DUMP_GV(block_info *heap, const char *filename)
+[01;32m[K                                            ^[m[K
+[01m[Kmemmgr.c:2:1:[m[K [01;35m[Kwarning: [m[K"/*" within comment [-Wcomment]
+ /******************************************************************************
+[01;32m[K ^[m[K
+[01m[Kmemmgr.c:10:1:[m[K [01;35m[Kwarning: [m[K"/*" within comment [-Wcomment]
+ /*
+[01;32m[K ^[m[K
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [K]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m gcc -O -g -Wall  -Wextra -ansi -pedantic sample-driver.c memmgr.c -o memmgr[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m cat /proc/meminfo[K[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [C[C[C[C[C[C[C[C[C[Ccpuinf[C[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [7Puname -a
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pwhoamiuptime[2Pdate[1Ppwddate./memmgr 2 0 | ttee output-alloc1.txt
+
+<<<<<<<< test_alloc2 >>>>>>>>
+=========================================
+    label: START
+  address: 0x000000
+     size: 300
+allocated: false
+--
+Allocated bytes:        0 [blocks:     0]
+     Free bytes:      300 [blocks:     1]
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+=========================================
+    label: one
+  address: 0x000000
+     size: 30
+allocated: true
+--
+    label: FREE
+  address: 0x000000
+     size: 270
+allocated: false
+--
+Allocated bytes:       30 [blocks:     1]
+     Free bytes:      270 [blocks:     1]
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m ./memmgr 2 0 | ttee output-alloc1.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m gcc -O -g -Wall -Wextra -ansi -pedantic sample-driver.c memmgr.c -o memmgr[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m cat /proc/meminfo[K[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [C[C[C[C[C[C[C[C[C[Ccpuinf[C[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [7Puname -a
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pwhoamiuptime[2Pdate[1Ppwddate./memmgr 2 0 | ttee output-alloc1.txt2.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | te[C[1P output-alloc2.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [C[C[C[C[C[C[C[C[C[C[C1 | t[Ce output-alloc2.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [C[C[C[C[C[C[C[C[C[C[C[C
+
+
+<<<<<<<< test_alloc2 >>>>>>>>
+=========================================
+    label: START
+  address: 0x000000
+     size: 300
+allocated: false
+--
+Allocated bytes:        0 [blocks:     0]
+     Free bytes:      300 [blocks:     1]
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+=========================================
+    label: one
+  address: 0x000000
+     size: 30
+allocated: true
+--
+    label: FREE
+  address: 0x000000
+     size: 270
+allocated: false
+--
+Allocated bytes:       30 [blocks:     1]
+     Free bytes:      270 [blocks:     1]
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m ./memmgr 2 1 | ttee output-alloc2.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [C[C[C[C[C[C[C[C[C[C[C0
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m gcc -O -g -Wall -Wextra -ansi -pedantic sample-driver.c memmgr.c -o memmgr[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m cat /proc/meminfo[K[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [C[C[C[C[C[C[C[C[C[Ccpuinf[C[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m [7Puname -a
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pwhoamiuptime[2Pdate[1Ppwddate./memmgr 2 0 | ttee output-alloc1.txt2.txt[7P.txt[A]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m diff --strip-trailing-cr output.txt test_alloc1.txtoutput-alloc2.txt
+1,101c1,2
+< ********** Allocation failed. [  1121:    20] **********
+< ********** Allocation failed. [  1122:    20] **********
+< ********** Allocation failed. [  1123:    20] **********
+< ********** Allocation failed. [  1124:    20] **********
+< ********** Allocation failed. [  1125:    20] **********
+< ********** Allocation failed. [  1126:    20] **********
+< ********** Allocation failed. [  1127:    20] **********
+< ********** Allocation failed. [  1128:    20] **********
+< ********** Allocation failed. [  1129:    20] **********
+< ********** Allocation failed. [  1130:    20] **********
+< ********** Allocation failed. [  1131:    20] **********
+< ********** Allocation failed. [  1132:    20] **********
+< ********** Allocation failed. [  1133:    20] **********
+< ********** Allocation failed. [  1134:    20] **********
+< ********** Allocation failed. [  1135:    20] **********
+< ********** Allocation failed. [  1136:    20] **********
+< ********** Allocation failed. [  1137:    20] **********
+< ********** Allocation failed. [  1138:    20] **********
+< ********** Allocation failed. [  1139:    20] **********
+< ********** Allocation failed. [  1140:    20] **********
+< ********** Allocation failed. [  1141:    20] **********
+< ********** Allocation failed. [  1142:    20] **********
+< ********** Allocation failed. [  1143:    20] **********
+< ********** Allocation failed. [  1144:    20] **********
+< ********** Allocation failed. [  1145:    20] **********
+< ********** Allocation failed. [  1146:    20] **********
+< ********** Allocation failed. [  1147:    20] **********
+< ********** Allocation failed. [  1148:    20] **********
+< ********** Allocation failed. [  1149:    20] **********
+< ********** Allocation failed. [  1150:    20] **********
+< ********** Allocation failed. [  1151:    20] **********
+< ********** Allocation failed. [  1152:    20] **********
+< ********** Allocation failed. [  1153:    20] **********
+< ********** Allocation failed. [  1154:    20] **********
+< ********** Allocation failed. [  1155:    20] **********
+< ********** Allocation failed. [  1156:    20] **********
+< ********** Allocation failed. [  1157:    20] **********
+< ********** Allocation failed. [  1158:    20] **********
+< ********** Allocation failed. [  1159:    20] **********
+< ********** Allocation failed. [  1160:    20] **********
+< ********** Allocation failed. [  1161:    20] **********
+< ********** Allocation failed. [  1162:    20] **********
+< ********** Allocation failed. [  1163:    20] **********
+< ********** Allocation failed. [  1164:    20] **********
+< ********** Allocation failed. [  1165:    20] **********
+< ********** Allocation failed. [  1166:    20] **********
+< ********** Allocation failed. [  1167:    20] **********
+< ********** Allocation failed. [  1168:    20] **********
+< ********** Allocation failed. [  1169:    20] **********
+< ********** Allocation failed. [  1170:    20] **********
+< ********** Allocation failed. [  1171:    20] **********
+< ********** Allocation failed. [  1172:    20] **********
+< ********** Allocation failed. [  1173:    20] **********
+< ********** Allocation failed. [  1174:    20] **********
+< ********** Allocation failed. [  1175:    20] **********
+< ********** Allocation failed. [  1176:    20] **********
+< ********** Allocation failed. [  1177:    20] **********
+< ********** Allocation failed. [  1178:    20] **********
+< ********** Allocation failed. [  1179:    20] **********
+< ********** Allocation failed. [  1180:    20] **********
+< ********** Allocation failed. [  1181:    20] **********
+< ********** Allocation failed. [  1182:    20] **********
+< ********** Allocation failed. [  1183:    20] **********
+< ********** Allocation failed. [  1184:    20] **********
+< ********** Allocation failed. [  1185:    20] **********
+< ********** Allocation failed. [  1186:    20] **********
+< ********** Allocation failed. [  1187:    20] **********
+< ********** Allocation failed. [  1188:    20] **********
+< ********** Allocation failed. [  1189:    20] **********
+< ********** Allocation failed. [  1190:    20] **********
+< ********** Allocation failed. [  1191:    20] **********
+< ********** Allocation failed. [  1192:    20] **********
+< ********** Allocation failed. [  1193:    20] **********
+< ********** Allocation failed. [  1194:    20] **********
+< ********** Allocation failed. [  1195:    20] **********
+< ********** Allocation failed. [  1196:    20] **********
+< ********** Allocation failed. [  1197:    20] **********
+< ********** Allocation failed. [  1198:    20] **********
+< ********** Allocation failed. [  1199:    20] **********
+< ********** Allocation failed. [  1200:    20] **********
+< ********** Allocation failed. [  1201:    20] **********
+< ********** Allocation failed. [  1202:    20] **********
+< ********** Allocation failed. [  1203:    20] **********
+< ********** Allocation failed. [  1204:    20] **********
+< ********** Allocation failed. [  1205:    20] **********
+< ********** Allocation failed. [  1206:    20] **********
+< ********** Allocation failed. [  1207:    20] **********
+< ********** Allocation failed. [  1208:    20] **********
+< ********** Allocation failed. [  1209:    20] **********
+< ********** Allocation failed. [  1210:    20] **********
+< ********** Allocation failed. [  1211:    20] **********
+< ********** Allocation failed. [  1212:    20] **********
+< ********** Allocation failed. [  1213:    20] **********
+< ********** Allocation failed. [  1214:    20] **********
+< ********** Allocation failed. [  1215:    20] **********
+< ********** Allocation failed. [  1216:    20] **********
+< ********** Allocation failed. [  1217:    20] **********
+< ********** Allocation failed. [  1218:    20] **********
+< ********** Allocation failed. [  1219:    20] **********
+< ********** Allocation failed. [  1220:    20] **********
+< -------------------- Second Deallocation --------------------
+---
+> 
+> <<<<<<<< test_alloc2 >>>>>>>>
+103c4
+<     label:    801:    12
+---
+>     label: START
+105c6
+<      size: 48
+---
+>      size: 300
+108,488c9,13
+<     label:    803:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label:      6:     8
+<   address: 0x000000
+<      size: 192
+< allocated: false
+< --
+<     label:     22:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    812:    12
+<   address: 0x000000
+<      size: 136
+< allocated: false
+< --
+<     label:     34:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    818:    12
+<   address: 0x000000
+<      size: 88
+< allocated: false
+< --
+<     label:     42:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    822:    12
+<   address: 0x000000
+<      size: 48
+< allocated: false
+< --
+<     label:    824:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label: FREE
+<   address: 0x000000
+<      size: 152
+< allocated: false
+< --
+<     label:     60:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    831:    12
+<   address: 0x000000
+<      size: 20
+< allocated: false
+< --
+<     label:    832:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label: FREE
+<   address: 0x000000
+<      size: 56
+< allocated: false
+< --
+<     label:     68:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    835:    12
+<   address: 0x000000
+<      size: 40
+< allocated: false
+< --
+<     label:     72:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    837:    12
+<   address: 0x000000
+<      size: 48
+< allocated: false
+< --
+<     label:    839:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label:     78:     8
+<   address: 0x000000
+<      size: 84
+< allocated: false
+< --
+<     label:    843:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label:     86:     8
+<   address: 0x000000
+<      size: 96
+< allocated: false
+< --
+<     label:     94:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    848:    12
+<   address: 0x000000
+<      size: 412
+< allocated: false
+< --
+<     label:    865:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label:    130:     8
+<   address: 0x000000
+<      size: 104
+< allocated: false
+< --
+<     label:    870:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label: FREE
+<   address: 0x000000
+<      size: 36
+< allocated: false
+< --
+<     label:    872:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label: FREE
+<   address: 0x000000
+<      size: 16
+< allocated: false
+< --
+<     label:    873:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label:    146:     8
+<   address: 0x000000
+<      size: 8
+< allocated: false
+< --
+<     label:    874:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label: FREE
+<   address: 0x000000
+<      size: 8
+< allocated: false
+< --
+<     label:    148:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    875:    12
+<   address: 0x000000
+<      size: 232
+< allocated: false
+< --
+<     label:    168:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    885:    12
+<   address: 0x000000
+<      size: 116
+< allocated: false
+< --
+<     label:    890:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label: FREE
+<   address: 0x000000
+<      size: 64
+< allocated: false
+< --
+<     label:    893:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label:    186:     8
+<   address: 0x000000
+<      size: 28
+< allocated: false
+< --
+<     label:    188:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    895:    12
+<   address: 0x000000
+<      size: 108
+< allocated: false
+< --
+<     label:    198:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    900:    12
+<   address: 0x000000
+<      size: 88
+< allocated: false
+< --
+<     label:    206:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    904:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label: FREE
+<   address: 0x000000
+<      size: 124
+< allocated: false
+< --
+<     label:    218:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    910:    12
+<   address: 0x000000
+<      size: 68
+< allocated: false
+< --
+<     label:    224:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    913:    12
+<   address: 0x000000
+<      size: 12
+< allocated: false
+< --
+<     label:    226:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    914:    12
+<   address: 0x000000
+<      size: 192
+< allocated: false
+< --
+<     label:    922:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label: FREE
+<   address: 0x000000
+<      size: 208
+< allocated: false
+< --
+<     label:    931:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label:    262:     8
+<   address: 0x000000
+<      size: 36
+< allocated: false
+< --
+<     label:    933:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label:    266:     8
+<   address: 0x000000
+<      size: 372
+< allocated: false
+< --
+<     label:    949:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label:    298:     8
+<   address: 0x000000
+<      size: 84
+< allocated: false
+< --
+<     label:    953:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label:    306:     8
+<   address: 0x000000
+<      size: 152
+< allocated: false
+< --
+<     label:    960:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label: FREE
+<   address: 0x000000
+<      size: 28
+< allocated: false
+< --
+<     label:    322:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    962:    12
+<   address: 0x000000
+<      size: 260
+< allocated: false
+< --
+<     label:    344:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    973:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label:    346:     8
+<   address: 0x000000
+<      size: 28
+< allocated: false
+< --
+<     label:    348:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    975:    12
+<   address: 0x000000
+<      size: 308
+< allocated: false
+< --
+<     label:    988:    12
+<   address: 0x000000
+<      size: 12
+< allocated: true
+< --
+<     label: FREE
+<   address: 0x000000
+<      size: 84
+< allocated: false
+< --
+<     label:    992:    12
+---
+> Allocated bytes:        0 [blocks:     0]
+>      Free bytes:      300 [blocks:     1]
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+> =========================================
+>     label: one
+490c15
+<      size: 12
+---
+>      size: 30
+495,870c20
+<      size: 76
+< allocated: false
+< --
+<     label:    390:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    996:    12
+<   address: 0x000000
+<      size: 164
+< allocated: false
+< --
+<     label:    404:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    405:    12
+<   address: 0x000000
+<      size: 280
+< allocated: false
+< --
+<     label:    428:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    429:    12
+<   address: 0x000000
+<      size: 68
+< allocated: false
+< --
+<     label:   1009:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    436:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    437:    12
+<   address: 0x000000
+<      size: 280
+< allocated: false
+< --
+<     label:    460:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    461:    12
+<   address: 0x000000
+<      size: 20
+< allocated: false
+< --
+<     label:   1016:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    464:     8
+<   address: 0x000000
+<      size: 220
+< allocated: false
+< --
+<     label:   1021:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    484:     8
+<   address: 0x000000
+<      size: 96
+< allocated: false
+< --
+<     label:    492:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    493:    12
+<   address: 0x000000
+<      size: 252
+< allocated: false
+< --
+<     label:    514:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:   1029:    20
+<   address: 0x000000
+<      size: 280
+< allocated: false
+< --
+<     label:    538:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:   1035:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    540:     8
+<   address: 0x000000
+<      size: 220
+< allocated: false
+< --
+<     label:   1040:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    560:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    561:    12
+<   address: 0x000000
+<      size: 156
+< allocated: false
+< --
+<     label:    574:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:   1044:    20
+<   address: 0x000000
+<      size: 116
+< allocated: false
+< --
+<     label:    584:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    585:    12
+<   address: 0x000000
+<      size: 164
+< allocated: false
+< --
+<     label:   1050:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    600:     8
+<   address: 0x000000
+<      size: 48
+< allocated: false
+< --
+<     label:    604:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    605:    12
+<   address: 0x000000
+<      size: 40
+< allocated: false
+< --
+<     label:    608:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    609:    12
+<   address: 0x000000
+<      size: 184
+< allocated: false
+< --
+<     label:    624:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    625:    12
+<   address: 0x000000
+<      size: 60
+< allocated: false
+< --
+<     label:    630:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:   1058:    20
+<   address: 0x000000
+<      size: 96
+< allocated: false
+< --
+<     label:   1060:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    640:     8
+<   address: 0x000000
+<      size: 28
+< allocated: false
+< --
+<     label:   1061:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    644:     8
+<   address: 0x000000
+<      size: 404
+< allocated: false
+< --
+<     label:    678:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:   1070:    20
+<   address: 0x000000
+<      size: 96
+< allocated: false
+< --
+<     label:   1072:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    688:     8
+<   address: 0x000000
+<      size: 48
+< allocated: false
+< --
+<     label:    692:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    693:    12
+<   address: 0x000000
+<      size: 212
+< allocated: false
+< --
+<     label:   1078:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    712:     8
+<   address: 0x000000
+<      size: 76
+< allocated: false
+< --
+<     label:   1080:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    720:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    721:    12
+<   address: 0x000000
+<      size: 204
+< allocated: false
+< --
+<     label:    738:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:   1085:    20
+<   address: 0x000000
+<      size: 232
+< allocated: false
+< --
+<     label:    758:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:   1090:    20
+<   address: 0x000000
+<      size: 40
+< allocated: false
+< --
+<     label:    762:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:   1091:    20
+<   address: 0x000000
+<      size: 48
+< allocated: false
+< --
+<     label:   1092:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    768:     8
+<   address: 0x000000
+<      size: 48
+< allocated: false
+< --
+<     label:    772:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    773:    12
+<   address: 0x000000
+<      size: 68
+< allocated: false
+< --
+<     label:   1095:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    780:     8
+<   address: 0x000000
+<      size: 116
+< allocated: false
+< --
+<     label:    790:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:   1098:    20
+<   address: 0x000000
+<      size: 48
+< allocated: false
+< --
+<     label:   1099:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:    796:     8
+<   address: 0x000000
+<      size: 8
+< allocated: true
+< --
+<     label:    797:    12
+<   address: 0x000000
+<      size: 228
+< allocated: false
+< --
+<     label:   1110:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:   1111:    20
+<   address: 0x000000
+<      size: 40
+< allocated: false
+< --
+<     label:   1113:    20
+<   address: 0x000000
+<      size: 20
+< allocated: true
+< --
+<     label:   1114:    20
+<   address: 0x000000
+<      size: 140
+---
+>      size: 270
+873,874c23,24
+< Allocated bytes:      920 [blocks:    80]
+<      Free bytes:     9080 [blocks:    74]
+---
+> Allocated bytes:       30 [blocks:     1]
+>      Free bytes:      270 [blocks:     1]
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m valgrind -q --l eak-check=full --show-reachable=yes --tool=memcheck ./memmgr > /dev/null
+]0;musa@musa-VirtualBox ~/Desktop/AOSAssignment#5/AOSAssignment#5[01;32mmusa@musa-VirtualBox[00m [01;34m~/Desktop/AOSAssignment#5/AOSAssignment#5 $[00m exit
+
+Script done on Tue 25 Apr 2017 04:01:34 BST
